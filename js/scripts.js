@@ -49,4 +49,16 @@ $( document ).ready(function() {
 
         }
     } setInterval(updateGradient,10);
+
+    $("a.skillsbutton").click(function() {
+      $('html, body').animate({
+          scrollTop: $("#skillsheading").offset().top
+      }, 1000);
+    });
+
+    $("a.contact").click(function() {
+      $('html, body').animate({
+          scrollTop: $("#contact-wrap").offset().top
+      }, 1000);
+    });
 });
