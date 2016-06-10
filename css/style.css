@@ -32,7 +32,14 @@ body {
   margin: 0px;
   z-index: 10;
 }
-
+#gradient2 {
+  position: absolute;
+  height: 3000px;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  z-index: 3;
+}
 
 .splash {
   position: relative;
