@@ -2019,7 +2019,7 @@ select {
 .callout {
   margin: 0 0 1rem 0;
   padding: 1rem;
-  border: 1px solid rgba(10, 10, 10, 0.25);
+  border: none;
   border-radius: 0;
   position: relative;
   color: #0a0a0a;
