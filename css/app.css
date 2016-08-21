@@ -29,10 +29,7 @@
     .top-bar-left ul {
       float: right; } }
 
-.main {
-  background-color: #0000 !important;
-  border-style: none;
-}
+
 
 .callout-card {
   background: white;
@@ -119,4 +116,9 @@
 
 #separator1 {
   height:200px;
+}
+
+.main {
+  background-color: #0000 !important;
+  border-style: none;
 }
