@@ -122,3 +122,9 @@
   background-color: #0000 !important;
   border-style: none;
 }
+
+.iconsize {
+  font-size: 28pt;
+  padding: 5px;
+  color: black;
+}
