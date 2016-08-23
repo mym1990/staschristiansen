@@ -240,17 +240,23 @@ footer #right ul li:last-child {
     display: block;
   }
 
+.iconsize {
+  font-size: 16pt;
+  padding: 5px;
+  color: black;
+}
+
   p {
-    font-size: 28px;
+    font-size: 16px;
     font-weight: 200;
     margin-bottom: 10px;
     color: #000000;
     font-family: 'Josefin Sans', sans-serif;
-    font-weight: 400;
+    font-weight: 200;
   }
 
   h1 {
-    font-size: 38px;
+    font-size: 26px;
     font-weight: 400;
   }
 
