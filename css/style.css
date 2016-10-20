@@ -12,7 +12,7 @@
 }
 
 .header {
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .center-logo-name > p {
@@ -75,4 +75,9 @@ h1 {
 
 .contact-form {
   margin: 5em;
+}
+
+hr {
+  height: 2px;
+  margin: 0 auto;
 }
