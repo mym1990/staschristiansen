@@ -51,9 +51,10 @@ p {
 
 .stringnashville {
   font-family: 'Pacifico', normal;
-  font-size: 3em;
-  padding: 10px;
-  margin-top: 1em;
+  font-size: 2em;
+  padding: 2em;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .stringnashville:hover {
@@ -81,7 +82,7 @@ h1 {
 }
 
 hr {
-  height: 2px;
+  height: 1px;
   margin: 0 auto;
 }
 
@@ -104,4 +105,14 @@ i {
 
 i:hover {
   color: lightgreen;
+}
+
+img {
+  border: solid grey;
+  padding: 2em;
+  margin: 0 auto;
+}
+
+hr {
+  margin: 1em;
 }
